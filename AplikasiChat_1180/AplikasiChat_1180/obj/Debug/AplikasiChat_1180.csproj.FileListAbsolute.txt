@@ -1,0 +1,14 @@
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\bin\Debug\AplikasiChat_1180.exe.config
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\bin\Debug\AplikasiChat_1180.exe
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\bin\Debug\AplikasiChat_1180.pdb
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\obj\Debug\AplikasiChat_1180.csprojAssemblyReference.cache
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\obj\Debug\AplikasiChat_1180.Form1.resources
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\obj\Debug\AplikasiChat_1180.Properties.Resources.resources
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\obj\Debug\AplikasiChat_1180.csproj.GenerateResource.cache
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\obj\Debug\AplikasiChat_1180.csproj.CoreCompileInputs.cache
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\obj\Debug\AplikasiChat_1180.exe
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\obj\Debug\AplikasiChat_1180.pdb
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\bin\Debug\AplikasiChat_1180.exe.manifest
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\bin\Debug\AplikasiChat_1180.application
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\obj\Debug\AplikasiChat_1180.exe.manifest
+E:\yusuf\projek\AplikasiChat_1180\AplikasiChat_1180\obj\Debug\AplikasiChat_1180.application
