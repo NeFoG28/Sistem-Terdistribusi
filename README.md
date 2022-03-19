@@ -1,4 +1,7 @@
 # Sistem-Terdistribusi
+<Center> ****Alert**** 
+
+Program dibawah ini dibuat menggunakan Visual Studio 2019, jadi diusahakan menggunakan versi tersebut ataupun diatasnya
 
 1.LatihanStream_1180
 
