@@ -31,7 +31,8 @@ Program dibawah ini dibuat menggunakan Visual Studio 2019, jadi diusahakan mengg
 7. pelangi webservice dan applikasiclient
   
   ![image](https://user-images.githubusercontent.com/68705079/163718739-63519d4d-cc6d-467f-bfe3-865fe3a2e54f.png)
+  
+  ![image](https://user-images.githubusercontent.com/68705079/163718794-79262b4c-514e-4082-8b8d-180e4019cae9.png)
 
-  ![image](https://user-images.githubusercontent.com/68705079/163718749-16cb6f38-e613-489d-bb25-98726ed80b82.png)
 
   
