@@ -22,6 +22,7 @@ Program dibawah ini dibuat menggunakan Visual Studio 2019, jadi diusahakan mengg
 
 
 4. xml
+  ![image](https://user-images.githubusercontent.com/68705079/163719940-cd7ee137-e7db-4454-b127-406893a0ca36.png)
 
   
 5. 
