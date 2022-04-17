@@ -1,0 +1,10 @@
+E:\yusuf\projek\AplikasiXML_1180\AplikasiXML_1180\bin\Debug\AplikasiXML_1180.exe.config
+E:\yusuf\projek\AplikasiXML_1180\AplikasiXML_1180\bin\Debug\AplikasiXML_1180.exe
+E:\yusuf\projek\AplikasiXML_1180\AplikasiXML_1180\bin\Debug\AplikasiXML_1180.pdb
+E:\yusuf\projek\AplikasiXML_1180\AplikasiXML_1180\obj\Debug\AplikasiXML_1180.Form1.resources
+E:\yusuf\projek\AplikasiXML_1180\AplikasiXML_1180\obj\Debug\AplikasiXML_1180.Properties.Resources.resources
+E:\yusuf\projek\AplikasiXML_1180\AplikasiXML_1180\obj\Debug\AplikasiXML_1180.csproj.GenerateResource.cache
+E:\yusuf\projek\AplikasiXML_1180\AplikasiXML_1180\obj\Debug\AplikasiXML_1180.csproj.CoreCompileInputs.cache
+E:\yusuf\projek\AplikasiXML_1180\AplikasiXML_1180\obj\Debug\AplikasiXML_1180.exe
+E:\yusuf\projek\AplikasiXML_1180\AplikasiXML_1180\obj\Debug\AplikasiXML_1180.pdb
+E:\yusuf\projek\AplikasiXML_1180\AplikasiXML_1180\obj\Debug\AplikasiXML_1180.csproj.AssemblyReference.cache
