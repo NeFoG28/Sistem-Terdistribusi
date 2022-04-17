@@ -25,7 +25,9 @@ Program dibawah ini dibuat menggunakan Visual Studio 2019, jadi diusahakan mengg
   ![image](https://user-images.githubusercontent.com/68705079/163719940-cd7ee137-e7db-4454-b127-406893a0ca36.png)
 
   
-5. 
+5. Suhu WEBservice
+  ![image](https://user-images.githubusercontent.com/68705079/163721161-f3b8271a-876c-43ad-bd2c-0d5cd42bc3a2.png)
+
   
 6.
   
