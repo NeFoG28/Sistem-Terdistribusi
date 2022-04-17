@@ -1,0 +1,10 @@
+E:\yusuf\projek\clientservice_1180\clientservice_1180\bin\Debug\clientservice_1180.exe.config
+E:\yusuf\projek\clientservice_1180\clientservice_1180\bin\Debug\clientservice_1180.exe
+E:\yusuf\projek\clientservice_1180\clientservice_1180\bin\Debug\clientservice_1180.pdb
+E:\yusuf\projek\clientservice_1180\clientservice_1180\obj\Debug\clientservice_1180.csproj.AssemblyReference.cache
+E:\yusuf\projek\clientservice_1180\clientservice_1180\obj\Debug\clientservice_1180.Form1.resources
+E:\yusuf\projek\clientservice_1180\clientservice_1180\obj\Debug\clientservice_1180.Properties.Resources.resources
+E:\yusuf\projek\clientservice_1180\clientservice_1180\obj\Debug\clientservice_1180.csproj.GenerateResource.cache
+E:\yusuf\projek\clientservice_1180\clientservice_1180\obj\Debug\clientservice_1180.csproj.CoreCompileInputs.cache
+E:\yusuf\projek\clientservice_1180\clientservice_1180\obj\Debug\clientservice_1180.exe
+E:\yusuf\projek\clientservice_1180\clientservice_1180\obj\Debug\clientservice_1180.pdb
