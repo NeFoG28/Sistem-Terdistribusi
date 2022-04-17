@@ -29,7 +29,9 @@ Program dibawah ini dibuat menggunakan Visual Studio 2019, jadi diusahakan mengg
   ![image](https://user-images.githubusercontent.com/68705079/163721161-f3b8271a-876c-43ad-bd2c-0d5cd42bc3a2.png)
 
   
-6.
+6.Webservice and Web Form Gaji
+  ![image](https://user-images.githubusercontent.com/68705079/163722105-deff08c5-5bf9-486b-b8cd-23ed02353682.png)
+
   
 7. pelangi webservice dan applikasiclient
   
