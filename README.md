@@ -21,4 +21,17 @@ Program dibawah ini dibuat menggunakan Visual Studio 2019, jadi diusahakan mengg
 
 
 
-4. --??
+4. xml
+
+  
+5. 
+  
+6.
+  
+7. pelangi webservice dan applikasiclient
+  
+  ![image](https://user-images.githubusercontent.com/68705079/163718739-63519d4d-cc6d-467f-bfe3-865fe3a2e54f.png)
+
+  ![image](https://user-images.githubusercontent.com/68705079/163718749-16cb6f38-e613-489d-bb25-98726ed80b82.png)
+
+  
